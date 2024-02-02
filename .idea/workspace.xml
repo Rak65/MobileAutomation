@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fea70c26-c425-4914-a50f-7b498c0ade2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/calculatorappium/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/chromebrowser/AmazonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mobileautomation/MobileCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/setalarm/AlarmTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bhwBRFMBgESGZbbTZdTI6kerXE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.MobileCalculatorTest.divisionMethod">
+    <configuration name="MobileCalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobileautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobileautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.mobileautomation.MobileCalculatorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileCalculatorTest.additionMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobileautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobileautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.mobileautomation.MobileCalculatorTest" />
+      <option name="METHOD_NAME" value="additionMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileCalculatorTest.divisionMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobileautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobileautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.mobileautomation.MobileCalculatorTest" />
+      <option name="METHOD_NAME" value="divisionMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileCalculatorTest.multiplicationMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobileautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobileautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.mobileautomation.MobileCalculatorTest" />
+      <option name="METHOD_NAME" value="multiplicationMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MobileCalculatorTest.substractionMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mobileautomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mobileautomation" />
+      <option name="MAIN_CLASS_NAME" value="com.mobileautomation.MobileCalculatorTest" />
+      <option name="METHOD_NAME" value="substractionMethod" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MobileCalculatorTest.divisionMethod" />
+        <item itemvalue="TestNG.MobileCalculatorTest.multiplicationMethod" />
+        <item itemvalue="TestNG.MobileCalculatorTest.substractionMethod" />
+        <item itemvalue="TestNG.MobileCalculatorTest.additionMethod" />
+        <item itemvalue="TestNG.MobileCalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fea70c26-c425-4914-a50f-7b498c0ade2b" name="Changes" comment="" />
+      <created>1706680489172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706680489172</updated>
+    </task>
+    <servers />
+  </component>
+</project>
